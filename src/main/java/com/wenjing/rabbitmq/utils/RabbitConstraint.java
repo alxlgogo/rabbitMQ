@@ -8,6 +8,7 @@ public class RabbitConstraint {
     public static final String QUEUE_TWITTER="twitter";
 
     public static final String EXCHANGE_WEATHER_ROUTING="weather_routing";
+    public static final String EXCHANGE_WEATHER_TOPIC="weather_topic";
 
 
 }
